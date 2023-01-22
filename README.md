@@ -36,7 +36,7 @@ Hindi, Kannada, Tamil, Telugu.
 
 ### Step 1: Clone the repository
 ```bash
-git clone "https://github.com/Deep-Learning-01/language-identification-using-cnn-pytorch.git" repository
+git clone "https://github.com/aravind-selvam/Language_Identification-using-CNN-and-Audio-Processing.git" repository
 ```
 
 ### Step 2- Create a conda environment after opening the repository
