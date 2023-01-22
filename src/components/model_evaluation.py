@@ -15,7 +15,7 @@ from src.logger import logging
 
 
 class ModelEvaluation:
-    def __init__(self,model_evaluation_config: ModelEvaluationConfig,
+    def __init__(self, model_evaluation_config: ModelEvaluationConfig,
                  model_trainer_artifacts: ModelTrainerArtifacts) -> None:
         try:
             self.model_evaluation_config = model_evaluation_config

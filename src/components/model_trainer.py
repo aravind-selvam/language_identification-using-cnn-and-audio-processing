@@ -6,8 +6,7 @@ from torch.optim.lr_scheduler import StepLR
 from torch.utils.data import DataLoader
 from tqdm import tqdm
 
-from src.entity.artifact_entity import (DataPreprocessingArtifacts,
-                                        ModelTrainerArtifacts)
+from src.entity.artifact_entity import ModelTrainerArtifacts
 from src.entity.config_entity import ModelTrainerConfig
 from src.exceptions import CustomException
 from src.logger import logging
